@@ -1,5 +1,5 @@
 // ВАРИАНТ 4
-package com.Lab.Main;
+package com.Lab_1a.Main;
 
 import java.util.Scanner;
 
